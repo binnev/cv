@@ -1,11 +1,33 @@
 # Dr Robin Neville
-_Software Engineer based in Utrecht 🇳🇱_ 
 
-[Email](mailto:robin.m.neville@gmail.com) / [LinkedIn](https://www.linkedin.com/in/robinneville/) / [GitHub](https://github.com/binnev/) 
+_Software Engineer based in Utrecht 🇳🇱_
 
-- Enthusiastic and capable software developer 
-- Seeking to move beyond Python 
+[Email](mailto:robin.m.neville@gmail.com) / [GitHub](https://github.com/binnev/) / [LinkedIn](https://www.linkedin.com/in/robinneville/)
+
+- Enthusiastic and capable software developer
+- Seeking to move beyond Python
 - Increasingly thinking about architecture and the big picture
+
+## Experience 🧑‍💻
+
+**Backend Engineer** @ [Tranzer](https://tranzer.com/) _(Feb 2020 - Present)_ <br>
+Mobility aggregator that enables door-to-door planning and ticketing in the Netherlands and Europe.
+
+- Proposed and built several crucial features (TransitStops, plan matching)
+- EMV
+- Reviewing master release
+- Quickly became a trusted and more senior member of the team
+- Sharing knowledge with the team
+- **_Technologies used:_** Python, Django REST Framework,
+
+**EPSRC Doctoral Prize Research Fellow** @ University of Bristol _(Apr 2017 - Apr 2019)_ <br>
+
+- Designed & built in-house test equipment
+- Produced detailed design specifications
+- Developed software in LabVIEW to control equipment, capture sensor data, and execute test algorithms
+- Wrote equipment drivers to ensure safe operation of Instron test machine
+- Self-taught the LabVIEW & electronics skills required for the project
+- Used Python to produce animated videos of experimental results
 
 ## Technical skills 🦾
 
@@ -37,63 +59,44 @@ _Software Engineer based in Utrecht 🇳🇱_
 - Teaching / mentoring
 
 ## Currently learning 📖
-- Async / concurrency 
+
+- Async / concurrency
 - Typescript
 - Go
 - Devops + CI/CD
-- SQL 
-
-## Experience 🧑‍💻
-
-**Backend Engineer** @ [Tranzer](https://tranzer.com/) _(Feb 2020 - Present)_ <br>
-adsfoij asdfoi jadsfoij asdfoi jadsfoij adsfoija dsf.
-  - EMV
-  - Reviewing master release
-  - Proposed and built several crucial features (TransitStops, plan matching)
-  - Quickly became a trusted and more senior member of the team
-  - Sharing knowledge with the team
-  - **_Technologies used:_** ...
-
-
-**EPSRC Doctoral Prize Research Fellow** @ University of Bristol _(Apr 2017 - Apr 2019)_ <br>
-
-  - Designed & built in-house test equipment
-  - Produced detailed design specifications
-  - Developed software in LabVIEW to control equipment, capture sensor data, and execute test algorithms
-  - Wrote equipment drivers to ensure safe operation of Instron test machine
-  - Self-taught the LabVIEW & electronics skills required for the project
-  - Used Python to produce animated videos of experimental results
+- SQL
 
 ## Education 🎓
 
-### PhD in Advanced Composites
-
-ACCIS, University of Bristol, 2011–2016
+**PhD in Advanced Composites** @ ACCIS, University of Bristol _(2011–2016)_
 
 - Competitive 4-year PhD course in which the first year consists of taught components and the remaining 3 years comprise
   the PhD research project
-- Taught myself Python to automate numerical simulations
+- Taught myself Python to automate numerical simulations.
+- Worked as a teaching assistant in 1st/2nd year programming (Matlab) courses
 
-### MEng in Aerospace Engineering (2:1)
-
-University of Bristol, 2007–2011
+**MEng in Aerospace Engineering (2:1)** @ University of Bristol _(2007–2011)_
 
 ## Volunteering / outreach 🫶
 
-### Cheltenham Science Festival
+**MakerShack contributor** @ [Cheltenham Science Festival](https://www.cheltenhamfestivals.com/science) _(June 2017 & 2018)_ <br>
 
-June 2017 & 2018
+- Designed and ran interactive activity stalls aimed mainly at schoolchildren.
+- Trained other volunteers to help run the stalls.
+- Stall topics included laser cutting and sand pendulums. 
 
-- Volunteered in the CheltSciFest “MakerShack”—an interactive exhibit aimed mainly at schoolchildren. Both times I
-  designed and ran activity stalls.
+## Accomplishments 🥲
 
-## Projects 👾
+ **1st place** @ Tranzer's 2022 internal Advent of Code leaderboard 🌟
 
-See github.com/binnev
+## Projects I'm proud of 👾
 
-- Versioning library for Django REST
-- Object-oriented expansion of Pygame
-- Command line tools for converting media
+_See also [github.com/binnev](https://github.com/binnev)_
+
+- [Versioning library for Django REST](https://github.com/binnev/djangorestframework_versioning)
+- [Object-oriented expansion of Pygame](https://github.com/binnev/robingame)
+  - Which I used to create a (sort of) [clone of the Chrome dinosaur game](https://github.com/binnev/dino-jump)
+- [My Advent of Code solutions (in several languages)](https://github.com/binnev/advent-of-code)
 
 ## Hobbies 🎸
 
@@ -101,21 +104,19 @@ See github.com/binnev
 - [Reduction linocut](https://robinnevilleprints.etsy.com/)
 - rock climbing
 - gaming
-- and coding of course.
+- ...and coding of course.
 
 ## Languages 🗣️
 
-🇬🇧 **English:** native
-
-🇳🇱 **Dutch:** native 
-
-🇪🇸 **Spanish:** can order a cerveza
-
+🇬🇧 **English:** native <br>
+🇳🇱 **Dutch:** native <br>
+🇪🇸 **Spanish:** can order a cerveza <br>
 
 
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation]&#40;https://foundation.graphql.org/&#41; _&#40;Aug 2020 - Jan 2021&#41;_ <br>)
 
 [//]: # ([Google Season of Docs]&#40;https://developers.google.com/season-of-docs/docs/participants&#41; is a program matching experienced technical writers with open source organizations.)
@@ -131,6 +132,7 @@ See github.com/binnev
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (**Software Engineer** @ [Meeshkan]&#40;http://meeshkan.com/&#41; _&#40;Oct 2019 - Sep 2020&#41;_ <br>)
 
 [//]: # (Early-stage startup focused on automated API testing and NLP.)
@@ -154,6 +156,7 @@ See github.com/binnev
 [//]: # (    <br><br>)
 
 [//]: # ()
+
 [//]: # (**Frontend Engineer** @ [Blacklane]&#40;https://www.blacklane.com/en&#41; _&#40;Mar 2018 - Sep 2019&#41;_ <br>)
 
 [//]: # (Professional chauffeur service available in over 300 cities worldwide.)
@@ -169,6 +172,7 @@ See github.com/binnev
 [//]: # (  <br><br>)
 
 [//]: # ()
+
 [//]: # (**Technical Writer** @ [Contentful]&#40;https://www.contentful.com/&#41; _&#40;Sep 2017 - Feb 2018&#41;_ <br>)
 
 [//]: # (API-first infrastructure to create, manage and distribute content.)
@@ -192,14 +196,17 @@ See github.com/binnev
 [//]: # (    <br><br>)
 
 [//]: # (    )
+
 [//]: # (## 🗞 Journalism Experience)
 
 [//]: # ()
+
 [//]: # (_This section only accounts for work done post-career change._)
 
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (**Acting Editor** @ [Future of Sex]&#40;https://futureofsex.net/author/carolyn/&#41; _&#40;Apr 2022 - Present&#41;_ <br>)
 
 [//]: # (Online publication that provides insights into how emerging technologies are expanding human sexuality.)
@@ -211,6 +218,7 @@ See github.com/binnev
 [//]: # (  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance)
 
 [//]: # ()
+
 [//]: # (_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>)
 
 [//]: # (  - Researched and wrote [original stories on sex and technology]&#40;https://futureofsex.net/author/carolyn/&#41; for sophisticated online audience)
@@ -226,6 +234,7 @@ See github.com/binnev
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (**Freelance Writer** _&#40;Mar 2020 - Present&#41;_ <br>)
 
 [//]: # (Regular contributor to [Sex for Every Body]&#40;https://sexforeverybody.com/author/carolyn/&#41;. Other articles in [Autostraddle]&#40;https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/&#41;, [Silicon Allee]&#40;https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/&#41;, [Curve Magazine]&#40;https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/&#41;, and [elsewhere]&#40;https://workwithcarolyn.com/words&#41;.)
@@ -233,6 +242,7 @@ See github.com/binnev
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (**Contributing Editor** @ [FLURT Magazine]&#40;https://www.facebook.com/flurtmagazine&#41; _&#40;Mar 2016 - Sep 2018&#41;_ <br>)
 
 [//]: # (Magazine for socially conscious young people who want to create their own media.)
@@ -252,9 +262,11 @@ See github.com/binnev
 [//]: # (    <br><br>)
 
 [//]: # ()
+
 [//]: # (## 📌 Volunteering)
 
 [//]: # ()
+
 [//]: # (**EU Conference Team Member** @ [Write the Docs]&#40;https://www.writethedocs.org/conf/&#41; _&#40;Jul 2019 - Present&#41;_<br>)
 
 [//]: # (Technology conference focused on documentation systems, tech writing theory, and information delivery.)
@@ -266,6 +278,7 @@ See github.com/binnev
 [//]: # (  <br><br>)
 
 [//]: # ()
+
 [//]: # (**Workshop Lead** @ [New Devs on the Block]&#40;https://newdevs.org/&#41; _&#40;Jul 2019 - Dec 2021&#41;_ <br>)
 
 [//]: # (Free, two-day workshops to help people build their first website.)
@@ -279,6 +292,7 @@ See github.com/binnev
 [//]: # (  <br><br>)
 
 [//]: # ()
+
 [//]: # (**Web Development Instructor** @ [ReDI School of Digital Integration]&#40;https://www.redi-school.org/&#41; _&#40;Feb 2017 - Aug 2021&#41;_<br>)
 
 [//]: # (Non-profit digital school for tech-interested newcomers applying for asylum in Germany.)
@@ -294,6 +308,7 @@ See github.com/binnev
 [//]: # (  <br><br>)
 
 [//]: # ()
+
 [//]: # (**Co-Organizer** @ [QueerJS]&#40;https://queerjs.com/&#41; _&#40;Jun 2019 - Dec 2021&#41;_<br>)
 
 [//]: # (🏳️‍🌈 A meetup for everyone where queer speakers take the stage.)
@@ -307,18 +322,23 @@ See github.com/binnev
 [//]: # (  <br><br>)
 
 [//]: # (  )
+
 [//]: # ()
+
 [//]: # (## 🎤 Public Speaking)
 
 [//]: # (    )
+
 [//]: # (### Recent Appearances)
 
 [//]: # ()
+
 [//]: # (- **JSHeroes** live in Cluj 🇷🇴 _&#40;Jun 9, 2022&#41;_)
 
 [//]: # (<br>[Humanizing Your Documentation]&#40;https://www.youtube.com/watch?v=yE7eOoXTZtM&#41;<br>)
 
 [//]: # ()
+
 [//]: # (- **single-threaded Podcast** _&#40;released on Mar 31, 2021&#41;_)
 
 [//]: # (<br>[Crying at work]&#40;https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj&#41;<br>)
@@ -326,6 +346,7 @@ See github.com/binnev
 [//]: # (<br>)
 
 [//]: # ()
+
 [//]: # (**Want me to speak at your event?**)
 
 [//]: # (<br>💖 [Check out my website]&#40;https://workwithcarolyn.com/speaking&#41; for more information.)
@@ -333,14 +354,17 @@ See github.com/binnev
 [//]: # (<br><br>)
 
 [//]: # (  )
+
 [//]: # (## 🏆 Accomplishments)
 
 [//]: # ()
+
 [//]: # (**Won First Place** @ [Rainbows End Sex Tech Hackathon]&#40;https://hack.touchyfeely.tech/&#41; _&#40;May 2021&#41;_ <br>)
 
 [//]: # (Built [Tentilex]&#40;https://workwithcarolyn.com/blog/tentilex&#41;, a wearable armband that records your hand movement and generates a live 3D-model. )
 
 [//]: # ()
+
 [//]: # (**Top Author Recognition** @ [DEV]&#40;https://dev.to/&#41; _&#40;2019 - 2020&#41;_ <br>)
 
 [//]: # (Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:)
@@ -352,6 +376,7 @@ See github.com/binnev
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon]&#40;http://www.hacklikeagirl.co/&#41; _&#40;Oct 2017&#41;_<br>)
 
 [//]: # (Created [Qarma]&#40;https://github.com/lcorr8/qarma&#41;, an online platform to report and retrieve lost & found objects for travelers abroad.)
@@ -359,9 +384,11 @@ See github.com/binnev
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (## 💬 Languages)
 
 [//]: # ()
+
 [//]: # (🇺🇸 **English**: Native <br>)
 
 [//]: # (🇩🇪 **German**: B1)
@@ -369,24 +396,29 @@ See github.com/binnev
 [//]: # (<br><br>)
 
 [//]: # ()
+
 [//]: # (## 👩🏼‍🎓 Education)
 
 [//]: # ()
+
 [//]: # (**12-week intensive coding course** focused on full-stack JavaScript<br>)
 
 [//]: # ([SPICED Academy]&#40;https://www.spiced-academy.com/&#41; - Berlin, Germany _&#40;Apr 2017 - Jun 2017&#41;_ <br>)
 
 [//]: # ()
+
 [//]: # (**Bachelor of Arts** in Journalism and Media Studies<br>)
 
 [//]: # ([Beloit College]&#40;https://www.beloit.edu/&#41; - Beloit, Wisconsin, USA _&#40;2011 - 2015&#41;_)
 
 [//]: # ()
+
 [//]: # (**Washington Semester Program** for Journalism and New Media<br>)
 
 [//]: # ([American University]&#40;https://www.american.edu/&#41; - Washington DC, USA _&#40;Fall 2014&#41;_)
 
 [//]: # ()
+
 [//]: # (**International Exchange** studying Political Science<br>)
 
 [//]: # ([Yeditepe Üniversitesi]&#40;https://yeditepe.edu.tr/en&#41; - Istanbul, Turkey _&#40;Spring 2013&#41;_)
