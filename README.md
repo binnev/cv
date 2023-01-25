@@ -17,7 +17,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Set up new microservices and volunteered to help maintain existing ones.
 - Built an open-source versioning library that is now used in the core backend and one microservice.
 - Provided guidance and mentoring for newer members of the team. 
-- Involved in the creation, reviewing, and deploying of the production release branches
+- Involved in the creation, reviewing, and deploying of the production release.
 - **_Technologies used:_** Python, Django REST Framework, pytest, TypeScript
 
 **EPSRC Doctoral Prize Research Fellow** @ [Bristol Composites Institute](http://www.bristol.ac.uk/composites/) _(Apr 2017 - Apr 2019)_ <br>
