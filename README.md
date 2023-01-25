@@ -15,7 +15,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Wrote code in many areas of the core backend, from integrations of external services, to new API endpoints.  
 - Proposed and implemented several important new features within the core planning + ticketing flow
 - Set up new microservices and volunteered to help maintain existing ones.
-- Built an open-source versioning library to help track and document versioning code
+- Built an open-source versioning library that is now used in the core backend and one microservice.
 - Provided guidance and mentoring for newer members of the team. 
 - Involved in the creation, reviewing, and deploying of the production release branches
 - **_Technologies used:_** Python, Django REST Framework, pytest, TypeScript
