@@ -8,10 +8,9 @@ _Enthusiastic and capable Software Engineer based in Utrecht 🇳🇱_
 
 [//]: # (todo: Maybe it'd be better to highlight one achievement per place? )
 
-**Backend Engineer** @ [Tranzer](https://tranzer.com/) _(Feb 2020 - Present)_ <br>
+**Backend Engineer** @ [Tranzer](https://tranzer.com/) _(Feb 2020–present)_ <br>
 Mobility aggregator that enables door-to-door planning and ticketing in the Netherlands and Europe.
 
-- Quickly became a trusted and core member of the team.
 - Wrote code in many areas of the core backend, from integrations of external services, to new API endpoints.  
 - Proposed and implemented several important new features within the core planning + ticketing flow
 - Set up new microservices and volunteered to help maintain existing ones.
@@ -20,14 +19,14 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Involved in the creation, reviewing, and deploying of the production release.
 - **_Technologies used:_** Python, Django REST Framework, pytest, TypeScript
 
-**EPSRC Doctoral Prize Research Fellow** @ [Bristol Composites Institute](http://www.bristol.ac.uk/composites/) _(Apr 2017 - Apr 2019)_ <br>
+**EPSRC Doctoral Prize Research Fellow** @ [Bristol Composites Institute](http://www.bristol.ac.uk/composites/) _(Apr 2017–Apr 2019)_ <br>
 
-- Designed & built in-house test equipment
-- Produced detailed design specifications
-- Developed software in LabVIEW to control equipment, capture sensor data, and execute test algorithms
+- Designed & built a custom robot for experiments
+- Developed software in LabVIEW to control the robot, capture sensor data, and execute test algorithms
 - Wrote equipment drivers to ensure safe operation of Instron test machine
 - Self-taught the LabVIEW & electronics skills required for the project
 - Used Python to produce animated videos of experimental results
+- Published papers in [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.254101) and [Proc. R. Soc. A](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2019.0576)
 
 ## Technical skills 🦾
 
@@ -40,9 +39,9 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Decent understanding of OAuth2
 - Creating microservices
 - Logging + monitoring (NodeRed/Elastic/Kibana)
-- PyPI packages
+- Creating PyPI packages
 - Organising & processing complex datasets
-- Real-time event-based systems (Pygame, LabVIEW)
+- Real-time event-based systems (LabVIEW, Pygame)
 - Rudimentary HTML, CSS, JS
 
 ## Personal skills 🫂
@@ -55,7 +54,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Attention to detail
 - Motivation & focus
 - Creativity
-- Presenting complex data
+- Presenting complex data to specialist and non-specialist audiences
 
 ## Currently learning 📖
 
@@ -67,7 +66,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 
 ## Education 🎓
 
-**PhD** in Advanced Composites <br>
+**PhD** in Origami Engineering <br>
 [Bristol Composites Institute](http://www.bristol.ac.uk/composites/), University of Bristol _(2011–2016)_
 
 - Competitive 4-year PhD course in which the first year consists of taught components and the remaining 3 years comprise
@@ -77,6 +76,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 
 **MEng** in Aerospace Engineering (2:1) <br> 
 [University of Bristol](https://www.bristol.ac.uk/) _(2007–2011)_
+- Achieved 1st class honours on my final year research project (Kirigami Cellular Structures)
 
 ## Volunteering / outreach 🫶
 
@@ -88,11 +88,16 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 
 ## Accomplishments 🥲
 
- **1st place** @ Tranzer's 2022 internal Advent of Code leaderboard 🌟
+- 1st place @ Tranzer internal Advent of Code competition (2022) 🌟
+
+## Public speaking 🎤
+- Invited talk @ [Bristol Bright Night](https://www.bristol.ac.uk/cabot/events/2015/bristol-bright-night.html) festival (Sep 2015)
+- Invited talk @ BuroHappold's Bath office (Sep 2015)
+- Finalist @ University of Bristol [Three Minute Thesis](http://www.bristol.ac.uk/engineering/news/2015/3mt.html) competition (Jun 2015)
 
 ## Projects I'm proud of 👾
 
-_See also [github.com/binnev](https://github.com/binnev)_
+_See also [my github](https://github.com/binnev)_
 
 - [Versioning library for Django REST Framework](https://pypi.org/project/djangorestframework-versioning/)
 - [Object-oriented expansion of Pygame](https://github.com/binnev/robingame)
@@ -102,7 +107,7 @@ _See also [github.com/binnev](https://github.com/binnev)_
 ## Hobbies 🎸
 
 - [Ukulele / guitar / bass](https://www.youtube.com/watch?v=HFDQyDbb_vM&ab_channel=RobinNMusic)
-- [Reduction linocut](https://robinnevilleprints.etsy.com/)
+- [Reduction linocut](https://www.instagram.com/wash_and_ink/)
 - rock climbing
 - gaming
 - ...and coding of course.
