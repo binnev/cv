@@ -19,7 +19,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Involved in the creation, reviewing, and deploying of the production release.
 - **_Technologies used:_** Python, Django REST Framework, pytest, TypeScript
 
-**EPSRC Doctoral Prize Research Fellow** @ [Bristol Composites Institute](http://www.bristol.ac.uk/composites/) _(Apr 2017–Apr 2019)_ <br>
+**EPSRC Doctoral Prize Research Fellow** @ [University of Bristol](http://www.bristol.ac.uk/composites/) _(Apr 2017–Apr 2019)_ <br>
 
 - Designed & built a custom robot for experiments
 - Developed software in LabVIEW to control the robot, capture sensor data, and execute test algorithms
@@ -67,7 +67,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 ## Education 🎓
 
 **PhD** in Origami Engineering <br>
-[Bristol Composites Institute](http://www.bristol.ac.uk/composites/), University of Bristol _(2011–2016)_
+[University of Bristol](http://www.bristol.ac.uk/composites/), University of Bristol _(2011–2016)_
 
 - Competitive 4-year PhD course in which the first year consists of taught components and the remaining 3 years comprise
   the PhD research project
