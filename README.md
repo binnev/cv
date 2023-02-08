@@ -31,11 +31,11 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 ## Technical skills 🦾
 
 - Python (since 2013)
-- Version control (git flows – hotfixes, production releases)
 - API design with Django REST framework
 - Unit + integration testing
 - OOP & functional programming concepts
 - Writing maintainable / scalable code
+- Version control (git flows – hotfixes, production releases)
 - Decent understanding of OAuth2
 - Creating microservices
 - Logging + monitoring (NodeRed/Elastic/Kibana)
