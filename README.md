@@ -66,7 +66,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 
 ## Education 🎓
 
-**PhD** in Origami Engineering <br>
+**PhD** in Aerospace Engineering <br>
 [University of Bristol](http://www.bristol.ac.uk/composites/), University of Bristol _(2011–2016)_
 
 - Competitive 4-year PhD course in which the first year consists of taught components and the remaining 3 years comprise
