@@ -8,7 +8,7 @@ _Enthusiastic and capable Software Engineer based in Utrecht 🇳🇱_
 
 [//]: # (todo: Maybe it'd be better to highlight one achievement per place? )
 
-**Backend Engineer** @ [Tranzer](https://tranzer.com/) _(Feb 2020–present)_ <br>
+**Backend Engineer** @ [Tranzer](https://tranzer.com/) _(Feb 2020–Apr 2023)_ <br>
 Mobility aggregator that enables door-to-door planning and ticketing in the Netherlands and Europe.
 
 - Wrote code in many areas of the core backend, from integrations of external services, to new API endpoints.  
@@ -33,7 +33,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Python (since 2013)
 - API design with Django REST framework
 - Unit + integration testing
-- OOP & functional programming concepts
+- OOP programming concepts
 - Writing maintainable / scalable code
 - Version control (git flows – hotfixes, production releases)
 - Decent understanding of OAuth2
@@ -59,6 +59,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 ## Currently learning 📖
 
 - Async / concurrency
+- C 
 - Typescript / JS
 - Go
 - Devops + CI/CD
