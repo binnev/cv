@@ -40,6 +40,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Creating microservices
 - Logging + monitoring (NodeRed/Elastic/Kibana)
 - Creating PyPI packages
+- Documenting code (commitizen/mkdocs/mike)
 - Organising & processing complex datasets
 - Real-time event-based systems (LabVIEW, Pygame)
 - Rudimentary HTML, CSS, JS
