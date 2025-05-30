@@ -2,11 +2,24 @@
 
 _Enthusiastic and capable Software Engineer based in Utrecht 🇳🇱_
 
-[Email](mailto:robin.m.neville@gmail.com) / [GitHub](https://github.com/binnev/) / [LinkedIn](https://www.linkedin.com/in/robinneville/)
+[Email](mailto:robin.m.neville@gmail.com) / [GitHub](https://github.com/binnev/) / [LinkedIn](https://www.linkedin.com/in/robinneville/) / [Google Scholar](https://scholar.google.com/citations?user=8ZzGzroAAAAJ)
 
 ## Experience 🧑‍💻
 
 [//]: # (todo: Maybe it'd be better to highlight one achievement per place? )
+
+**Backend Engineer** @ [Deliverect](https://www.deliverect.com) _(Oct 2023-present)_ <br>
+Food ordering aggregator integrates restaurant POS systems with delivery platforms.
+
+- Task scheduling service 
+  - Replacement for scheduled tasks in Celery
+  - Wrote the python client library + docs
+  - Learned Kubernetes and wrote the Helm charts
+- Web crawling project
+  - Authored a RFC for modular crawlers
+  - Pushed for better code quality + planning
+  - Contributed to architecture discussions
+- **_Technologies used:_** Python, FastAPI, MongoDB, Postgres, Docker, Kubernetes
 
 **Backend Engineer** @ [Tranzer](https://tranzer.com/) _(Feb 2020–Apr 2023)_ <br>
 Mobility aggregator that enables door-to-door planning and ticketing in the Netherlands and Europe.
@@ -31,19 +44,20 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 ## Technical skills 🦾
 
 - Python (since 2013)
-- API design with Django REST framework
+- Rust (since 2024)
+- Go (since 2023)
+- Docker, Kubernetes
+- Web APIs (Django REST framework, FastAPI)
 - Unit + integration testing
-- OOP programming concepts
+- OOP and functional programming 
 - Writing maintainable / scalable code
 - Version control (git flows – hotfixes, production releases)
-- Decent understanding of OAuth2
 - Creating microservices
-- Logging + monitoring (NodeRed/Elastic/Kibana)
+- Logging + monitoring (NodeRed, Elastic, Kibana)
 - Creating PyPI packages
-- Documenting code (commitizen/mkdocs/mike)
+- Documenting code (`commitizen`, `mkdocs`, `mike`)
 - Organising & processing complex datasets
 - Real-time event-based systems (LabVIEW, Pygame)
-- Rudimentary HTML, CSS, JS
 
 ## Personal skills 🫂
 
@@ -59,9 +73,7 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 
 ## Currently learning 📖
 
-- Async / concurrency
-- C 
-- Typescript / JS
+- Rust
 - Go
 - Devops + CI/CD
 - SQL
@@ -80,6 +92,17 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 [University of Bristol](https://www.bristol.ac.uk/) _(2007–2011)_
 - Achieved 1st class honours on my final year research project (Kirigami Cellular Structures)
 
+## Projects I'm proud of 👾
+
+_See also [my github](https://github.com/binnev)_
+- [`yes-chef` -- a Python CLI recipe manager](https://github.com/binnev/yes-chef)
+- [`packtrack` -- a Rust CLI for tracking packages](https://github.com/binnev/packtrack)
+- [Versioning library for Django REST Framework](https://pypi.org/project/djangorestframework-versioning/)
+- [Object-oriented expansion of Pygame](https://github.com/binnev/robingame)
+  - Which I used to create a (sort of) [clone of the Chrome dinosaur game](https://github.com/binnev/dino-jump)
+- [My Advent of Code solutions (in several languages)](https://github.com/binnev/advent-of-code)
+- [`abstrat` -- a Rust CLI for Abstract Strategy Games](https://github.com/binnev/abstrat)
+
 ## Volunteering / outreach 🫶
 
 **MakerShack contributor** @ [Cheltenham Science Festival](https://www.cheltenhamfestivals.com/science) _(June 2017 & 2018)_ <br>
@@ -96,15 +119,6 @@ Mobility aggregator that enables door-to-door planning and ticketing in the Neth
 - Invited talk @ [Bristol Bright Night](https://www.bristol.ac.uk/cabot/events/2015/bristol-bright-night.html) festival (Sep 2015)
 - Invited talk @ BuroHappold's Bath office (Sep 2015)
 - Finalist @ University of Bristol [Three Minute Thesis](http://www.bristol.ac.uk/engineering/news/2015/3mt.html) competition (Jun 2015)
-
-## Projects I'm proud of 👾
-
-_See also [my github](https://github.com/binnev)_
-
-- [Versioning library for Django REST Framework](https://pypi.org/project/djangorestframework-versioning/)
-- [Object-oriented expansion of Pygame](https://github.com/binnev/robingame)
-  - Which I used to create a (sort of) [clone of the Chrome dinosaur game](https://github.com/binnev/dino-jump)
-- [My Advent of Code solutions (in several languages)](https://github.com/binnev/advent-of-code)
 
 ## Hobbies 🎸
 
